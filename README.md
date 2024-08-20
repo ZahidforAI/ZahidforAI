@@ -31,7 +31,7 @@
 
 ###
 
-<img align="right" height="200" src="https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif"  />
+<img align="right" height="180" src="https://miro.medium.com/v2/resize:fit:900/1*YCrp0Z8mAOe2IUV9XmlEDw.gif"  />
 
 ###
 
