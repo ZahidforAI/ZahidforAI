@@ -1,4 +1,4 @@
-![Banner](https://github.com/ZahidforAI/ZahidforAI/blob/main/Github%20Banner.png)
+![Banner](https://github.com/ZahidforAI/ZahidforAI/blob/main/Banner.png)
 
 ###
 
