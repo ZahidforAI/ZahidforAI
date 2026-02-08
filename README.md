@@ -1,6 +1,8 @@
 <div align="center">
-  
-# 🤖 Zahid  | AI Engineer
+
+![Banner](https://github.com/ZahidforAI/ZahidforAI/blob/main/Banner.png)
+
+# Zahid | AI Engineer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Agents;Automating+Business+Workflows;Transforming+Data+into+Decisions)](https://git.io/typing-svg)
 
@@ -15,20 +17,16 @@
 
 </div>
 
----
-
-<img align="right" alt="AI Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 ## What I Do
 
 I build **AI agents** that automate business processes and transform raw data into actionable intelligence. My expertise lies in developing intelligent systems using LLMs, machine learning, and agentic frameworks that help organizations make data-driven decisions at scale.
 
 **Core Capabilities:**
--  Designing & deploying autonomous AI agents
--  Building LLM-powered applications with LangChain & OpenClaw
--  Creating end-to-end ML pipelines for business automation
--  Extracting insights from complex datasets using advanced analytics
--  Optimizing AI workflows for production environments
+- Designing & deploying autonomous AI agents
+- Building LLM-powered applications with LangChain & OpenClaw
+- Creating end-to-end ML pipelines for business automation
+- Extracting insights from complex datasets using advanced analytics
+- Optimizing AI workflows for production environments
 
 <br clear="right"/>
 
@@ -87,9 +85,6 @@ I build **AI agents** that automate business processes and transform raw data in
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
-
----
-
 
 ---
 
