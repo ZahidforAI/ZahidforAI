@@ -1,8 +1,8 @@
 <div align="center">
 
-![Banner](https://github.com/ZahidforAI/ZahidforAI/blob/main/Banner.png)
+<!-- ![Banner](https://github.com/ZahidforAI/ZahidforAI/blob/main/Banner.png) -->
 
-# Zahid | AI Engineer
+<!-- Zahid | AI Engineer -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Agents;Automating+Business+Workflows;Transforming+Data+into+Decisions)](https://git.io/typing-svg)
 
