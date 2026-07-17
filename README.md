@@ -6,14 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Intelligent+AI+Agents;Automating+Business+Workflows;Transforming+Data+into+Decisions)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/zahidaliai/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:zahidforai@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=zahidforai&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -27,6 +20,10 @@ I build **AI agents** that automate business processes and transform raw data in
 - Creating end-to-end ML pipelines for business automation
 - Extracting insights from complex datasets using advanced analytics
 - Optimizing AI workflows for production environments
+
+<a href="mailto:zahidforai@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 <br clear="right"/>
 
@@ -83,6 +80,7 @@ I build **AI agents** that automate business processes and transform raw data in
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 </div>
 
