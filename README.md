@@ -8,8 +8,6 @@
 
 HI, I'm Zahid. I build products around AI and blockchain.
 
-My main interest is AI agents and how they can interact with real applications, data, users, and onchain systems.
-
-I also explore Ethereum, stablecoins, agentic payments, and new ways AI can work with blockchain infrastructure.
+I also explore EVM, stablecoins, agentic payments, and new ways AI can work with blockchain infrastructure.
 
 I enjoy combining ai with blockchain :)
